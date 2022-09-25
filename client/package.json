@@ -2,7 +2,7 @@
   "name": "wedding-planner",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://master.d1qvtinezngtid.amplifyapp.com/",
+  "proxy": "https://vreau.site/",
   "dependencies": {
     "@auth0/auth0-react": "^1.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
